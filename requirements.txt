@@ -1,0 +1,6 @@
+streamlit
+diffprivlib
+pandas
+numpy
+plotly
+scikit-learn
